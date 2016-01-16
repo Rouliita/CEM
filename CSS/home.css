@@ -1,13 +1,17 @@
+#header{
+    margin: 20px;
+    float: left;
+}
+
 img{
     height: 150px;
 }
 
-.navbar{
-    height: 180px;
+p{
+    font-size: 30px;
+    padding-top: 70px;
 }
 
-#bs-example-navbar-collapse-1{
-    margin-top: 65px;
-    margin-left: 160px;
-    font-size: 20px;
+.navbar{
+    clear: left;
 }
