@@ -74,6 +74,16 @@
               <span class="sr-only">Next</span>
             </a>
         </div>
+        
+        <div id="footer">
+            <h3>Partenaires :</h3>
+            <a href="http://www.ville-massy.fr/" target="_blank">
+                <img src="images/logo-massy.jpg" alt="logo ville de Massy" id="logo-footer">
+            </a> 
+            <a href="http://www.essonne.fr/" target="_blank">
+                <img src="images/Logo-Essonne.svg.png" alt="logo CG Essonne" id="logo-footer">
+            </a> 
+        </div>
         <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
     </body>
 </html>

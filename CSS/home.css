@@ -22,3 +22,15 @@ p{
 .navbar{
     clear: left;
 }
+
+
+#footer{
+    padding-top: 1px;
+    height: 250px;
+    background-color: #303030;
+    color: whitesmoke;
+}
+
+#logo-footer{
+    height: 100px;
+}
