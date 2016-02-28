@@ -7,6 +7,13 @@ img{
     height: 150px;
 }
 
+#img-slides{
+    height: 500px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 p{
     font-size: 30px;
     padding-top: 70px;
