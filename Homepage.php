@@ -83,6 +83,15 @@
             <a href="http://www.essonne.fr/" target="_blank">
                 <img src="images/Logo-Essonne.svg.png" alt="logo CG Essonne" id="logo-footer">
             </a> 
+            <a href="http://www.escrime-ffe.fr/" target="_blank">
+                <img src="images/logo-FFE.png" alt="logo FFE" id="logo-footer">
+            </a> 
+            <a href="http://cde91.fr/" target="_blank">
+                <img src="images/logo_CDE.jpg" alt="logo CDE" id="logo-footer">
+            </a> 
+            <a href="http://ligue.leav.fr/" target="_blank">
+                <img src="images/Logo_leifo.png" alt="logo LEIFO" id="logo-footer">
+            </a> 
         </div>
         <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
     </body>
