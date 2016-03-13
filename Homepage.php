@@ -10,16 +10,12 @@
         <link href="CSS/home.css" rel="stylesheet" media="all" type="text/css">
     </head>
     <body>
-        <div id="header">
-            <a href="#">
-                <img alt="Logo CEM" src="images/LogoCem.png" class="img-circle">
-            </a>
-        </div>
-        <p> Cercle d'escrime de Massy </p>
        <nav class="navbox navbar navbar-default navbar-static-top">
             <div class="container-fluid">
                <div class="navbar-header">
-                   
+                   <a href="#">
+                    <img alt="Logo CEM" src="images/LogoCem.png" class="img-circle">
+                    </a>
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                       <span class="sr-only">Toggle navigation</span>
                       <span class="icon-bar"></span>
