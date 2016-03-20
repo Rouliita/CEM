@@ -1,3 +1,7 @@
+#header nav {
+    margin-bottom:0px;
+}
+
 img{
     height: 150px;
 }
@@ -16,14 +20,23 @@ p{
 
 
 #footer{
-    padding-top: 1px;
-    height: 250px;
+    padding-bottom:20px;
     background-color: #303030;
     color: whitesmoke;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+}
+
+#footer h3 {
+    margin-top:0px;
+    padding-top:10px;
+    text-align:center;
+}
+
+#footer ul {
+    margin-top:10px;
+    padding-left:0px;
+    display:flex;
+    list-style-type:none;
+    justify-content:space-around;
 }
 
 #logo-footer{
